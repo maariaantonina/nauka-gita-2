@@ -1,0 +1,25 @@
+body {
+    font-family: 'Merriweather', serif;
+    font-size: 16px;
+    line-height: 1.7;
+    letter-spacing: 0.5px;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.container h1 {
+    margin-top: 60px;
+    margin-bottom: 0;
+}
+
+.container h2 {
+    font-weight: 400;
+    font-style: italic;
+    font-size: 1em;
+    margin-top: 0;
+}
